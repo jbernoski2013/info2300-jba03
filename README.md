@@ -16,5 +16,4 @@ Create your own repository on the command line:
 - git push -u orgin master
 ```
 You can also download the repository and view it that way or fork the repository. 
-## License
 
