@@ -1,4 +1,4 @@
-
+![](Profile/Images/Screenshot.png)
 # Assignment 3 - Continuous Integration
 **By: Julia Bernoski**
 ## Description
