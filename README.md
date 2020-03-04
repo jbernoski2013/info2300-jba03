@@ -1,4 +1,7 @@
-# <a href="https://github.com/rhildred/split-test" target="_blank">split-test</a>
+# Assignment 3 - Continuous Integration
+**By: Julia Bernoski**
+## Description and How To Use
 
-An engine for splitting the traffic between sites.
+## Installation
+## License
 
