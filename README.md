@@ -18,5 +18,5 @@ Create your own repository on the command line:
 ```
 You can also download the repository and view it that way or fork the repository. 
 
-[View Live Portfolio that is hosted on Heroku](https://info2300-jba03.herokuapp.com/)
+[View Live Portfolio that is hosted on Heroku &raquo;](https://info2300-jba03.herokuapp.com/)
 
