@@ -19,15 +19,15 @@ Create your own repository on the command line:
 You can also download the repository and view it that way or fork the repository. 
 
 ## How to Build Project on Heruko
-The First thing I did on Heruko was create a new project. I than went to the deploy tab and selected to link to github, as that is where I currently have my project being saved on. 
+The First thing you have to do is to go onto Heruko and create a new project. Than you need go to the deploy tab and select link to github. Make sure before you do this that you have forked the project so that it will saved as a repository on your github.
 
 ![Connect to Github](https://github.com/jbernoski2013/info2300-jba03/blob/master/Profile/Images/ConnectGithub.png)
 
-Once I had Heroku connected to my github, I was able to search for the specific repository, the one I was looking for is this one, "info2300-jba3".
+Once Heroku is connected to your github, you will able to search for the specific repository, the one you will be looking for is this one, "info2300-jba3", unless you have renamed the repository, then look for the name you changed it to.
 
 ![Connection is successful](https://github.com/jbernoski2013/info2300-jba03/blob/master/Profile/Images/ConnectSuccess.png)
 
-Lastly, I had to go in and click on "Deploy Branch". Once it went through and was successful it generated a live version of my page. 
+Lastly, scroll down and go click on "Deploy Branch". Once it goes through and was successful it will generate a live version of the html page. 
 
 ![Build Successful](https://github.com/jbernoski2013/info2300-jba03/blob/master/Profile/Images/Build.png)
 
